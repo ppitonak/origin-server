@@ -9,7 +9,7 @@ License-Url: https://mms.mongodb.com/links/terms-of-service
 Cartridge-Version: 0.0.9
 Compatible-Versions:
 - 0.0.8
-Cartridge-Vendor: redhat
+Cartridge-Vendor: ppitonak
 Vendor: 10gen.com
 Categories:
 - embedded
